@@ -19,7 +19,7 @@
     "user-management"
   ],
   "dependencies": {
-    "autoprefixer": "^10.4.19",
+    "autoprefixer": "^10.4.20",
     "postcss": "^8.4.39",
     "react-router-dom": "^6.25.1",
     "react-toastify": "^10.0.5",
